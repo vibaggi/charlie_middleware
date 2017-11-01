@@ -1,0 +1,19 @@
+{
+  "name": "charlie_middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vibaggi/charlie_middleware.git"
+  },
+  "author": "Vitor Baggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibaggi/charlie_middleware/issues"
+  },
+  "homepage": "https://github.com/vibaggi/charlie_middleware#readme"
+}
